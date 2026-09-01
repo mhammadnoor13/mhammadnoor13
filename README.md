@@ -6,7 +6,7 @@ and production-oriented machine learning systems.
 - 🎓 M2 Software Architectures student at Nantes Université
 - 🔎 Seeking a 6-month final-year internship from January 2027
 - 🤖 Building multilingual plagiarism-detection systems
-- 💼 Volunteer AI Engineer at Empowered Futures
+- 💼 AI Engineer intern at Empowered Futures
 - 🧠 Interested in NLP, information retrieval, RAG and backend architecture
 
 ## Featured project
