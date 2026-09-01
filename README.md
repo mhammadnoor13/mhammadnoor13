@@ -31,5 +31,4 @@ PyTorch · Transformers · pytest · Jest
 
 ## Contact
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- [Portfolio or CV](YOUR_LINK)
+- [LinkedIn](www.linkedin.com/in/mhammad-nour-ali)
