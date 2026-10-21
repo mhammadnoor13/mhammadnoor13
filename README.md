@@ -31,4 +31,4 @@ PyTorch · Transformers · pytest · Jest
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/mnour-ali)
+- [LinkedIn](https://www.linkedin.com/in/mnour-ali)
