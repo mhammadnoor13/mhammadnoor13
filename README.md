@@ -1,4 +1,4 @@
-# Hi, I'm Mhammad Nour Ali 👋
+# Hi, I'm Nour Ali 👋
 
 AI & Software Engineer specializing in applied NLP, backend engineering,
 and production-oriented machine learning systems.
@@ -31,4 +31,4 @@ PyTorch · Transformers · pytest · Jest
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/mhammad-nour-ali)
+- [LinkedIn](www.linkedin.com/in/mnour-ali)
